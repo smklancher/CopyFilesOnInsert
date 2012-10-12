@@ -1,0 +1,5 @@
+C:\WorkingCopy\Misc\CopyFilesOnInsert\xDirectory\bin\Debug\xDirectory.dll
+C:\WorkingCopy\Misc\CopyFilesOnInsert\xDirectory\bin\Debug\xDirectory.pdb
+C:\WorkingCopy\Misc\CopyFilesOnInsert\xDirectory\obj\Debug\ResolveAssemblyReference.cache
+C:\WorkingCopy\Misc\CopyFilesOnInsert\xDirectory\obj\Debug\xDirectory.dll
+C:\WorkingCopy\Misc\CopyFilesOnInsert\xDirectory\obj\Debug\xDirectory.pdb
